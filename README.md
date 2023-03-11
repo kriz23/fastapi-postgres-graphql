@@ -130,3 +130,10 @@ query {
 ```
 
 En el ejemplo anterior estamos consultando los atributos `id`, `title` y `content` del registro cuya `id` es `1`.
+
+___
+
+Tomado originalmente de:
+
+[Este videito](https://youtu.be/Puvr82Cm26o) | [Este repositorio](https://github.com/veryacademy/YT_FastAPI_Beginner_Fast-Track-GraphQL)
+
